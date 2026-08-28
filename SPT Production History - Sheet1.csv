@@ -10,12 +10,12 @@ Year,Season,Show,Author,Genre,Cast_Size,Times_Performed
 2004,Fall,Love's Labour's Lost,,Comedy,,1
 2005,Spring,Othello,,Tragedy,,2
 2005,Fall,Measure for Measure,,Tragedy-Comedy,,2
-2005,Fall,As You Like It,,Comedy ,,3
+2005,Fall,As You Like It,,Comedy,,3
 2006,Spring,A Midsummer Night's Dream,,Comedy,,2
 2006,Fall,Richard III,,History,,1
 2006,Fall,The Taming of the Shrew,,Tragedy-Comedy,,2
 2007,Spring,The Winter's Tale,,Tragedy-Comedy,,2
-2007,Spring,A Servent of Two Masters,,Comedy ,,1
+2007,Spring,A Servent of Two Masters,,Comedy,,1
 2007,Fall,The Merchant of Venice,,Tragedy-Comedy,,1
 2007,Fall,Romeo and Juliet,,Tragedy,,3
 2008,Spring,The Cenci ,,Tragedy,,1
@@ -45,21 +45,21 @@ Year,Season,Show,Author,Genre,Cast_Size,Times_Performed
 2014,Fall,A Doll's House,,Tragedy,,1
 2015,Spring,Measure for Measure,,Tragedy-Comedy,,2
 2015,Spring,Equivocation,,History,,1
-2015,Fall,As You Like It,,Comedy ,,3
-2015,Fall,William Shakespeare's Star Wars,,Comedy ,,1
+2015,Fall,As You Like It,,Comedy,,3
+2015,Fall,William Shakespeare's Star Wars,,Comedy,,1
 2016,Spring,Hamlet,,Tragedy,,4
 2016,Spring,Much Ado About Nothing,,Comedy,,5
-2016,Fall,After Juliet,,Comedy ,,1
+2016,Fall,After Juliet,,Comedy,,1
 2016,Fall,Shortspeare (The Shakesperience!),,Comedy,,1
-2017,Spring,Twelfth Night,,Comedy ,,5
+2017,Spring,Twelfth Night,,Comedy,,5
 2017,Spring,The Merry Wives of Windsor,,Comedy,,1
-2017,Fall,The Roaring Girl,,Comedy ,,1
+2017,Fall,The Roaring Girl,,Comedy,,1
 2017,Fall,The Winter's Tale,,Tragedy-Comedy,,2
 2018,Spring,Julia Caesar,,Tragedy,,1
 2018,Fall,Antigone,,Tragedy,,2
 2018,Fall,R&J,,Tragedy,,3
 2019,Spring,"Marian, or the True Tale of Robin Hood",,Comedy,,1
-2019,Spring,Two Gentlemen of Verona,,Comedy ,,1
+2019,Spring,Two Gentlemen of Verona,,Comedy,,1
 2019,Fall,Hamlet,,Tragedy,,4
 2019,Fall,Rosencrantz and Guildenstern are Dead,,Tragedy-Comedy,,3
 2020,Fall,Macbeth,,Tragedy,,4
@@ -83,4 +83,4 @@ Year,Season,Show,Author,Genre,Cast_Size,Times_Performed
 2025,Fall,Dracula,,Tragedy,,1
 2025,Fall,Medea,,Tragedy,,1
 2026,Spring,Antigone,,Tragedy,,2
-2026,Spring,As You Like It,,Comedy ,,3
+2026,Spring,As You Like It,,Comedy,,3
