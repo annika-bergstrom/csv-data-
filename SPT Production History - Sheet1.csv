@@ -5,7 +5,7 @@ Year,Season,Show,Author,Genre,Cast_Size,Times_Performed
 2003,Spring,The Comedy of Errors,William Shakespeare,Comedy,,2
 2003,Fall,Love's Fire,Multiple,Other,,1
 2003,Fall,The Complete Works of William Shakespeare (abridged),Multiple,Comedy,,1
-2004,Spring,Much Ado About Nothing,William Shakespeare,Comedy,,5
+2004,Spring,Much Ado About Nothing,William Shakespeare,Comedy,,6
 2004,Fall,The Importance of Being Earnest,Oscar Wilde,Other,,2
 2004,Fall,Love's Labour's Lost,William Shakespeare,Comedy,,1
 2005,Spring,Othello,William Shakespeare,Tragedy,,2
@@ -17,7 +17,7 @@ Year,Season,Show,Author,Genre,Cast_Size,Times_Performed
 2007,Spring,The Winter's Tale,William Shakespeare,Tragedy-Comedy,,2
 2007,Spring,A Servent of Two Masters,Carlo Goldoni,Comedy,,1
 2007,Fall,The Merchant of Venice,William Shakespeare,Tragedy-Comedy,,1
-2007,Fall,Romeo and Juliet,William Shakespeare,Tragedy,,3
+2007,Fall,Romeo and Juliet,William Shakespeare,Tragedy,,4
 2008,Spring,The Cenci ,Percy Shelley,Tragedy,,1
 2008,Spring,Twelfth Night,William Shakespeare,Comedy,,5
 2008,Fall,Macbeth,William Shakespeare,Tragedy,,4
@@ -25,7 +25,7 @@ Year,Season,Show,Author,Genre,Cast_Size,Times_Performed
 2009,Spring,Two Noble Kinsman,William Shakespeare,Comedy,,1
 2009,Spring,Rosencrantz and Guildenstern are Dead,Tom Stoppard,Other,,3
 2009,Fall,Hamlet ,William Shakespeare,Tragedy,,4
-2010,Spring,Much Ado About Nothing,William Shakespeare,Comedy,,5
+2010,Spring,Much Ado About Nothing,William Shakespeare,Comedy,,6
 2010,Fall,Significantly Sexier Shakespeare,Self-written,Comedy,,1
 2010,Fall,Tis Pity She’s a Whore,John Ford,Tragedy,,1
 2011,Spring,Love’s Labours Lost,William Shakespeare,Comedy,,1
@@ -37,10 +37,10 @@ Year,Season,Show,Author,Genre,Cast_Size,Times_Performed
 2012,Fall,Comedy of Errors,William Shakespeare,Comedy,,2
 2013,Spring,Twelfth Night,William Shakespeare,Comedy,,5
 2013,Spring,The Women,Clare Boothe Luce,Comedy,,1
-2013,Fall,Julius Caesar,William Shakespeare,Tragedy,,1
+2013,Fall,Julius Caesar,William Shakespeare,Tragedy,,3
 2013,Fall,Henry IV Parts I and 2,William Shakespeare,History,,1
 2014,Spring,Taming of the Shrew,William Shakespeare,Tragedy-Comedy,,2
-2014,Spring,Romeo and Juliet,William Shakespeare,Tragedy,,3
+2014,Spring,Romeo and Juliet,William Shakespeare,Tragedy,,4
 2014,Fall,Macbeth,William Shakespeare,Tragedy,,4
 2014,Fall,A Doll's House,Henrik Ibsen,Tragedy,,1
 2015,Spring,Measure for Measure,William Shakespeare,Tragedy-Comedy,,2
@@ -48,28 +48,28 @@ Year,Season,Show,Author,Genre,Cast_Size,Times_Performed
 2015,Fall,As You Like It,William Shakespeare,Comedy,,3
 2015,Fall,William Shakespeare's Star Wars,Ian Doescher,Comedy,,1
 2016,Spring,Hamlet,William Shakespeare,Tragedy,,4
-2016,Spring,Much Ado About Nothing,William Shakespeare,Comedy,,5
+2016,Spring,Much Ado About Nothing,William Shakespeare,Comedy,,6
 2016,Fall,After Juliet,Sharman Macdonald,Comedy,,1
 2016,Fall,Shortspeare (The Shakesperience!),Self-written,Comedy,,1
 2017,Spring,Twelfth Night,William Shakespeare,Comedy,,5
 2017,Spring,The Merry Wives of Windsor,William Shakespeare,Comedy,,1
 2017,Fall,The Roaring Girl,Multiple,Comedy,,1
 2017,Fall,The Winter's Tale,William Shakespeare,Tragedy-Comedy,,2
-2018,Spring,Julia Caesar,William Shakespeare,Tragedy,,1
+2018,Spring,Julia Caesar,William Shakespeare,Tragedy,,3
 2018,Fall,Antigone,Sophocles,Tragedy,,2
-2018,Fall,R&J,William Shakespeare,Tragedy,,3
+2018,Fall,R&J,William Shakespeare,Tragedy,,4
 2019,Spring,"Marian, or the True Tale of Robin Hood",Adam Szymkowicz,Comedy,,1
 2019,Spring,Two Gentlemen of Verona,William Shakespeare,Comedy,,1
 2019,Fall,Hamlet,William Shakespeare,Tragedy,,4
 2019,Fall,Rosencrantz and Guildenstern are Dead,Tom Stoppard,Other,,3
 2020,Fall,Macbeth,William Shakespeare,Tragedy,,4
-2020,Fall,Much Ado About Nothing,William Shakespeare,Comedy,,5
+2020,Fall,Much Ado About Nothing,William Shakespeare,Comedy,,6
 2021,Spring,Twelfth Night,William Shakespeare,Comedy,,5
 2021,Spring,No Exit,Jean-Paul Sartre,Other,,1
 2021,Fall,The Importance of Being Earnest,Oscar Wilde,Other,,2
 2022,Spring,Arcadia,Tom Stoppard,Tragedy-Comedy,,1
 2022,Spring,Joan of Arc,William Shakespeare,History,,1
-2022,Fall,Much Ado About Nothing,William Shakespeare,Comedy,,5
+2022,Fall,Much Ado About Nothing,William Shakespeare,Comedy,,6
 2023,Spring,Edward II,Christopher Marlowe,Tragedy,,1
 2023,Spring,Iphigenia in Aulis,Euripides,Tragedy,,1
 2023,Fall,The Orestia,Aeschylus,Tragedy,,1
@@ -84,3 +84,7 @@ Year,Season,Show,Author,Genre,Cast_Size,Times_Performed
 2025,Fall,Medea,Euripides,Tragedy,,1
 2026,Spring,Antigone,Sophocles,Tragedy,,2
 2026,Spring,As You Like It,William Shakespeare,Comedy,,3
+2026,Fall,Julius Caesar,William Shakespeare,Tragedy,,3
+2026,Fall,Arden of Feversham,Unknown,Tragedy,,1
+2027,Spring,Much Ado About Nothing,William Shakespeare,Comedy,,6
+2027,Spring,Romeo and Juliet,William Shakespeare,Tragedy,,4
