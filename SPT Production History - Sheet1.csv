@@ -1,4 +1,4 @@
-Year,Season,Show,Author,Genre,Cast_Size,Times_Performed,Run_Time
+Year,Season,Show,Author,Genre,Cast_Size,Times_Performed,Run_Time,
 2000,Spring,A Midsummer Night's Dream,William Shakespeare,Comedy,,2,,
 2001,Fall,Rosencrantz and Guildenstern are Dead,Tom Stoppard,Other,,3,,
 2002,Fall,Hamlet's Shorts,Self-Written,Comedy,,1,,
@@ -35,18 +35,18 @@ Year,Season,Show,Author,Genre,Cast_Size,Times_Performed,Run_Time
 2012,Spring,Othello ,William Shakespeare,Tragedy,,2,,
 2012,Spring,Pygmalion,George Bernard Shaw,Other,,1,,
 2012,Fall,Comedy of Errors,William Shakespeare,Comedy,,2,,
-2013,Spring,Twelfth Night,William Shakespeare,Comedy,,5,138
+2013,Spring,Twelfth Night,William Shakespeare,Comedy,,5,138,
 2013,Spring,The Women,Clare Boothe Luce,Comedy,14,1,,
-2013,Fall,Julius Caesar,William Shakespeare,Tragedy,17,3,136
-2013,Fall,Henry IV Parts I and 2,William Shakespeare,History,,1,171
-2014,Spring,Taming of the Shrew,William Shakespeare,Tragedy-Comedy,17,2,149
-2014,Spring,Romeo and Juliet,William Shakespeare,Tragedy,,4,128
+2013,Fall,Julius Caesar,William Shakespeare,Tragedy,17,3,136,
+2013,Fall,Henry IV Parts I and 2,William Shakespeare,History,,1,171,
+2014,Spring,Taming of the Shrew,William Shakespeare,Tragedy-Comedy,17,2,149,
+2014,Spring,Romeo and Juliet,William Shakespeare,Tragedy,,4,128,
 2014,Fall,Macbeth,William Shakespeare,Tragedy,17,4,,
 2014,Fall,A Doll's House,Henrik Ibsen,Tragedy,9,1,,
-2015,Spring,Measure for Measure,William Shakespeare,Tragedy-Comedy,14,2,159
+2015,Spring,Measure for Measure,William Shakespeare,Tragedy-Comedy,14,2,159,
 2015,Spring,Equivocation,Bill Cain,History,,1,,
 2015,Fall,As You Like It,William Shakespeare,Comedy,16,3,,
-2015,Fall,William Shakespeare's Star Wars,Ian Doescher,Comedy,19,1,138
+2015,Fall,William Shakespeare's Star Wars,Ian Doescher,Comedy,19,1,138,
 2016,Spring,Hamlet,William Shakespeare,Tragedy,,4,,
 2016,Spring,Much Ado About Nothing,William Shakespeare,Comedy,,6,,
 2016,Fall,After Juliet,Sharman Macdonald,Comedy,,1,,
@@ -54,32 +54,32 @@ Year,Season,Show,Author,Genre,Cast_Size,Times_Performed,Run_Time
 2017,Spring,Twelfth Night,William Shakespeare,Comedy,,5,171
 2017,Spring,The Merry Wives of Windsor,William Shakespeare,Comedy,,1,,
 2017,Fall,The Roaring Girl,Multiple,Comedy,,1,,
-2017,Fall,The Winter's Tale,William Shakespeare,Tragedy-Comedy,,2,147
-2018,Spring,Julia Caesar,William Shakespeare,Tragedy,,3,115
-2018,Fall,Antigone,Sophocles,Tragedy,,2,85
+2017,Fall,The Winter's Tale,William Shakespeare,Tragedy-Comedy,,2,147,
+2018,Spring,Julia Caesar,William Shakespeare,Tragedy,,3,115,
+2018,Fall,Antigone,Sophocles,Tragedy,,2,85,
 2018,Fall,R&J,William Shakespeare,Tragedy,,4,,
 2019,Spring,"Marian, or the True Tale of Robin Hood",Adam Szymkowicz,Comedy,,1,,
 2019,Spring,Two Gentlemen of Verona,William Shakespeare,Comedy,,1,,
-2019,Fall,Hamlet,William Shakespeare,Tragedy,14,4,133
+2019,Fall,Hamlet,William Shakespeare,Tragedy,14,4,133,
 2019,Fall,Rosencrantz and Guildenstern are Dead,Tom Stoppard,Other,,3,,
 2020,Fall,Macbeth,William Shakespeare,Tragedy,,4,,
 2020,Fall,Much Ado About Nothing,William Shakespeare,Comedy,16,6,,
-2021,Spring,Twelfth Night,William Shakespeare,Comedy,13,5,150
+2021,Spring,Twelfth Night,William Shakespeare,Comedy,13,5,150,
 2021,Spring,No Exit,Jean-Paul Sartre,Other,4,1,,
 2021,Fall,The Importance of Being Earnest,Oscar Wilde,Other,9,2,127,,
 2022,Spring,Arcadia,Tom Stoppard,Tragedy-Comedy,,1,,
-2022,Spring,Joan of Arc,William Shakespeare,History,13,1,86
-2022,Fall,Much Ado About Nothing,William Shakespeare,Comedy,17,6,151
-2023,Spring,Edward II,Christopher Marlowe,Tragedy,14,1,180
-2023,Spring,Iphigenia in Aulis,Euripides,Tragedy,9,1,62
-2023,Fall,The Orestia,Aeschylus,Tragedy,13,1,115
-2023,Fall,Hamlet,William Shakespeare,Tragedy,9,4,187
+2022,Spring,Joan of Arc,William Shakespeare,History,13,1,86,
+2022,Fall,Much Ado About Nothing,William Shakespeare,Comedy,17,6,151,
+2023,Spring,Edward II,Christopher Marlowe,Tragedy,14,1,180,
+2023,Spring,Iphigenia in Aulis,Euripides,Tragedy,9,1,62,
+2023,Fall,The Orestia,Aeschylus,Tragedy,13,1,115,
+2023,Fall,Hamlet,William Shakespeare,Tragedy,9,4,187,
 2024,Spring,Macbeth,William Shakespeare,Tragedy,15,4,,
-2024,Spring,The Government Inspector,Nikolai Gogol,Comedy,13,1,177
-2024,Fall,The Bacchae,Euripides,Tragedy,9,1,92
-2024,Fall,Twelfth Night,William Shakespeare,Comedy,12,5,141
-2025,Spring,Dr. Faustus,Christopher Marlowe,Tragedy,14,1,101
-2025,Spring,King Lear,William Shakespeare,Tragedy,14,1,131
+2024,Spring,The Government Inspector,Nikolai Gogol,Comedy,13,1,177,
+2024,Fall,The Bacchae,Euripides,Tragedy,9,1,92,
+2024,Fall,Twelfth Night,William Shakespeare,Comedy,12,5,141,
+2025,Spring,Dr. Faustus,Christopher Marlowe,Tragedy,14,1,101,
+2025,Spring,King Lear,William Shakespeare,Tragedy,14,1,131,
 2025,Fall,Dracula,Self-written,Tragedy,11,1,,
 2025,Fall,Medea,Euripides,Tragedy,9,1,,
 2026,Spring,Antigone,Sophocles,Tragedy,9,2,,
